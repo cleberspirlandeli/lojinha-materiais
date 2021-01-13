@@ -1942,9 +1942,9 @@ jquery-validation-unobtrusive@^3.2.11:
     jquery ">=1.8"
     jquery-validation ">=1.16"
 
-jquery-validation@>=1.16, jquery-validation@^1.19.1:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/jquery-validation/-/jquery-validation-1.19.1.tgz#a85043467dc2b70d9fff05778646d150e747742f"
+jquery-validation@>=1.16, jquery-validation@^1.19.3:
+  version "1.19.3"
+  resolved "https://registry.yarnpkg.com/jquery-validation/-/jquery-validation-1.19.3.tgz#50b350eba8b02bcfd119ba15f199487b7eb64086"
 
 jquery@>=1.8, jquery@^3.4.1:
   version "3.4.1"
